@@ -1,0 +1,6 @@
+C:\Users\Оксана\Desktop\Radionov\testSimplex\testSimplex\bin\Release\testSimplex.exe.config
+C:\Users\Оксана\Desktop\Radionov\testSimplex\testSimplex\bin\Release\testSimplex.exe
+C:\Users\Оксана\Desktop\Radionov\testSimplex\testSimplex\bin\Release\testSimplex.pdb
+C:\Users\Оксана\Desktop\Radionov\testSimplex\testSimplex\obj\Release\testSimplex.csprojResolveAssemblyReference.cache
+C:\Users\Оксана\Desktop\Radionov\testSimplex\testSimplex\obj\Release\testSimplex.exe
+C:\Users\Оксана\Desktop\Radionov\testSimplex\testSimplex\obj\Release\testSimplex.pdb

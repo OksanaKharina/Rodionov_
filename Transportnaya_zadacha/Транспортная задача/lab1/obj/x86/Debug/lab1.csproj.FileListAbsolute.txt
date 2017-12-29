@@ -1,0 +1,10 @@
+C:\Users\Оксана\Desktop\Transportnaya_zadacha\Транспортная задача\lab1\bin\Debug\lab1.exe
+C:\Users\Оксана\Desktop\Transportnaya_zadacha\Транспортная задача\lab1\bin\Debug\lab1.pdb
+C:\Users\Оксана\Desktop\Transportnaya_zadacha\Транспортная задача\lab1\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\Оксана\Desktop\Transportnaya_zadacha\Транспортная задача\lab1\obj\x86\Debug\lab1.mainForm.resources
+C:\Users\Оксана\Desktop\Transportnaya_zadacha\Транспортная задача\lab1\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\Оксана\Desktop\Transportnaya_zadacha\Транспортная задача\lab1\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\Оксана\Desktop\Transportnaya_zadacha\Транспортная задача\lab1\obj\x86\Debug\lab1.exe
+C:\Users\Оксана\Desktop\Transportnaya_zadacha\Транспортная задача\lab1\obj\x86\Debug\lab1.pdb
+C:\Users\Оксана\Desktop\Radionov\Transportnaya_zadacha\Транспортная задача\lab1\obj\x86\Debug\lab1.exe
+C:\Users\Оксана\Desktop\Radionov\Transportnaya_zadacha\Транспортная задача\lab1\obj\x86\Debug\lab1.pdb
